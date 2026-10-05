@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 💍 Wedding Gallery Celebration Story
 
-# Run and deploy your AI Studio app
+A modern, elegant, and interactive wedding website built with **React, TypeScript, Vite, and Tailwind CSS**.
 
-This contains everything you need to run your app locally.
+This project creates a beautiful digital wedding experience where guests can explore the couple's story, view wedding memories, interact with the photo gallery, leave wishes in a digital guestbook, and even upload their own wedding photos.
 
-View your app in AI Studio: https://ai.studio/apps/faa5f588-5799-40d1-9b3d-f1802db875a3
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- 💕 Beautiful wedding hero section
+- 📖 Couple's love story
+- 🗓️ Wedding timeline
+- 📸 Interactive wedding photo gallery
+- 🔎 Full-screen photo lightbox
+- ❤️ Like and favorite wedding photos
+- 📤 Guest photo upload
+- 💌 Digital wedding guestbook
+- 🔍 Search and filter guest messages
+- 🥂 Like and cheer guest wishes
+- 🎉 Confetti animations
+- 📍 Wedding event and venue details
+- 💾 Browser Local Storage support
+- 📱 Fully responsive design
+- ⚡ Fast and smooth experience with Vite
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Technologies Used
+
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Motion**
+- **Lucide React**
+- **Canvas Confetti**
+- **Local Storage API**
+
+---
+
+## 📸 About the Project
+
+The **Wedding Gallery Celebration Story** is designed as a digital space to preserve and share unforgettable wedding moments.
+
+Guests can browse wedding photographs, read the couple's journey, leave personal wishes, interact with memories, and contribute their own photos to the celebration.
+
+The project combines a romantic visual design with modern frontend technologies to create an immersive and user-friendly wedding experience.
+
+---
