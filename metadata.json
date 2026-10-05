@@ -1,0 +1,6 @@
+{
+  "name": "Aethel & Julian — Wedding Gallery & Celebration Story",
+  "description": "An elegant, cinematic wedding photo gallery and celebration chronicle featuring the couple's love story, milestone timeline, curated photo albums, interactive guestbook, and scrapbook memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
